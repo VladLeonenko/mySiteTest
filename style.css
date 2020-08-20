@@ -700,7 +700,9 @@ footer	{
 	.contact_us{
 		margin-left: 0;
 	}
-
+	.layer{
+		display: none;
+	}
 }
 
 @media (max-width: 1200px) {
